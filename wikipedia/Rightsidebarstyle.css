@@ -1,0 +1,25 @@
+.Rightsidebar{
+    margin-left:1500px;
+    margin-top:2%;
+    overflow-y: scroll;
+   
+}
+
+.r1 {
+    width:5px;
+    height:20px;
+    display:flex;
+    margin-left:50px;
+    
+}
+.r0 label {
+    margin-left: 185px;
+}
+.r0 input{
+    margin-left:185px;
+}
+.r1 {
+    margin-top: 600px;
+    margin-left: -100%;
+    
+}

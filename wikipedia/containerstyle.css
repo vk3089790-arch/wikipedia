@@ -1,0 +1,20 @@
+.container{
+    border:0px solid black;
+    margin-top: 40px;
+    width: 100vw;;
+    display: flex;
+    height: 100vh;
+    align-content: stretch;
+    position: fixed;
+}
+
+.Left_Sidebar{
+    width:0%;
+    border-right: 1px solid grey;
+}
+.content{
+    width:55%;
+}
+.Rightsidebar{
+    width:20%;
+}
